@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "eamodio.gitlens", 
+        "octref.vetur",
+        "esbenp.prettier-vscode",
+        "pkief.material-icon-theme",
+        "mikestead.dotenv",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "coenraads.bracket-pair-colorizer"
+    ]
+  }

@@ -1,0 +1,239 @@
+//      GAP SIZES FOR SANI RESORT
+
+// $xxs: 5px;
+$xs: 10px;
+$small: 20px;
+$medium: 35px;
+$large: 60px;
+$xlarge: 80px;
+$xxlarge: 100px;
+$huge: 150px;
+// $xhuge: 110px;
+
+//default left-right padding
+$component-padding: 140px;
+
+$padding-default: 23px;
+$padding-lg-default: 156px;
+
+// MOBILE-SIZE
+
+//h1
+$h1-size-xs-mobile: 34px;
+$h1-size-mobile: 42px;
+$h1-size-tablet: 54px;
+$h1-line-height-mobile: 90%;
+$h1-letter-spacing-mobile: -2px;
+$h1-padding-bottom-mobile: 1px;
+
+//h2
+$h2-size-mobile: 36px;
+$h2-size-tablet: 45px;
+$h2-line-height-mobile: 90%;
+$h2-letter-spacing-mobile: -1px;
+
+// h2-rich-text
+$h2-rich-text-size-mobile: 34px;
+$h2-rich-text-line-height-mobile: 100%;
+$h2-rich-text-letter-spacing-mobile: -1px;
+
+//h3
+$h3-size-mobile: 36px;
+$h3-line-height-mobile: 90%;
+$h3-letter-spacing-mobile: -1px;
+
+// h3-rich-text
+$h3-rich-text-size-mobile: 25px;
+$h3-rich-text-line-height-mobile: 100%;
+$h3-rich-text-letter-spacing-mobile: -1px;
+
+//h4
+$h4-size-mobile: 34px;
+$h4-line-height-mobile: 90%;
+$h4-letter-spacing-mobile: -1px;
+
+//h5
+$h5-size-mobile: 20px;
+$h5-line-height-mobile: 90%;
+$h5-letter-spacing-mobile: 0.5px;
+
+//h6
+$h6-size-global: 20px; //desktop and mobile
+$h6-line-height-global: 90%; //desktop and mobile
+$h6-letter-spacing-global: 0; //desktop and mobile
+
+//h4
+$h4-size-xsmobile: 32px;
+
+//hl
+$hl-size-mobile: 64px;
+$hl-line-height-mobile: 85%;
+$hl-letter-spacing-mobile: -2px;
+$hl-padding-bottom-mobile: 2px;
+
+//hxl
+$hxl-size-mobile: 64px;
+$hxl-line-height-mobile: 85%;
+$hxl-letter-spacing-mobile: -2px;
+$hxl-padding-bottom-mobile: 3px;
+
+//hm
+$hm-size-mobile: 40px;
+$hm-line-height-mobile: 90%;
+$hm-letter-spacing-mobile: -1px;
+$hm-padding-bottom-mobile: 2px;
+
+//hs
+$hs-size-mobile: 40px;
+$hs-line-height-mobile: 90%;
+$hs-letter-spacing-mobile: -1px;
+
+//hxs
+$hxs-size-global: 24px; //dekstop and mobile
+$hxs-line-height-global: 100%; //dekstop and mobile
+
+// DESKTOP-SIZE
+// h1
+$h1-size-desktop: 70px;
+$h1-line-height-desktop: 100%;
+$h1-letter-spacing-desktop: -2px;
+$h1-padding-bottom-desktop: 2px;
+
+// h1-rich-text
+$h1-rich-text-size-dekstop: 100px;
+$h1-rich-text-line-height-desktop: 100%;
+$h1-rich-text-letter-spacing-dekstop: -3px;
+
+// h2
+$h2-size-desktop: 54px;
+$h2-line-height-desktop: 100%;
+$h2-letter-spacing-desktop: -2px;
+
+// h2-rich-text
+$h2-rich-text-size-dekstop: 70px;
+$h2-rich-text-line-height-desktop: 100%;
+$h2-rich-text-letter-spacing-dekstop: -2px;
+
+// h3
+$h3-size-desktop: 45px;
+$h3-line-height-desktop: 100%;
+$h3-letter-spacing-desktop: -1px;
+
+// h3-rich-text
+$h3-rich-text-size-dekstop: 54px;
+$h3-rich-text-line-height-desktop: 100%;
+$h3-rich-text-letter-spacing-dekstop: -2px;
+
+//h4
+$h4-size-desktop: 40px;
+$h4-line-height-desktop: 100%;
+$h4-letter-spacing-desktop: -1px;
+
+//h5
+$h5-size-desktop: 25px;
+$h5-line-height-desktop: 84%;
+$h5-letter-spacing-desktop: 0.5px;
+
+//hl-media-breakpoint-up(lg)
+$hl-size-desktop-lg: 70px;
+$hl-line-height-dekstop-lg: 85%;
+$hl-letter-spacing-desktop-lg: -2px;
+$hl-padding-bottom-desktop-lg: 2.5px;
+
+//hl-media-breakpoint-up(xl)
+$hl-size-desktop-xl: 85px;
+$hl-line-height-dekstop-xl: 85%;
+$hl-letter-spacing-desktop-xl: -3px;
+$hl-padding-bottom-desktop-xl: 3.5px;
+
+//hxl-media-breakpoint-up(lg)
+$hxl-size-desktop-lg: 100px;
+$hxl-line-height-dekstop-lg: 85%;
+$hxl-letter-spacing-desktop-lg: -3px;
+$hxl-padding-bottom-desktop-lg: 3.5px;
+
+//hxl-media-breakpoint-up(xl)
+$hxl-size-desktop-xl: 150px;
+$hxl-line-height-dekstop-xl: 85%;
+$hxl-letter-spacing-desktop-xl: -3px;
+$hxl-padding-bottom-desktop-xl: 5px;
+
+// hm
+$hm-size-desktop: 70px;
+$hm-line-height-dekstop: 83%;
+$hm-letter-spacing-desktop: -2px;
+$hm-padding-bottom-desktop: 6px;
+
+// hs
+$hs-size-desktop: 54px;
+$hs-line-height-dekstop: 85%;
+$hs-letter-spacing-desktop: -2px;
+
+// other font size
+$supporting-title-size: 18px;
+$supporting-title-line-height: 20px;
+$supporting-title-letter-spacing: 0px;
+
+$supporting-title-size-small: 14px;
+$supporting-title-line-height-small: 18px;
+
+$p-medium-size: 16px;
+$p-medium-line-height: 24px;
+$p-medium-letter-spacing: 0px;
+
+$p-medium-size-small: 14px;
+$p-medium-line-height-small: 18px;
+
+$button-p-size: 12px;
+$button-p-line-height: 14px;
+$button-p-letter-spacing: 0.5px;
+
+$p-large-size: 24px;
+$p-large-line-height: 30px;
+$p-large-letter-spacing: -0.5px;
+
+// font for section heading
+// MOBILE
+$xsmall-size-mobile: 28px;
+$xsmall-line-height-mobile: 28px;
+$xsmall-letter-spacing-mobile: -2px;
+
+$small-size-mobile: 34px;
+$small-line-height-mobile: 30px;
+$small-letter-spacing-mobile: -1px;
+
+$medium-large-xlarge-size-mobile: 55px;
+$medium-large-xlarge-line-height-mobile: 45px;
+$medium-large-xlarge-letter-spacing-mobile: -10px;
+
+// DEKSTOP
+$small-size-desktop: 60px;
+$small-line-height-dekstop: 85%;
+$small-letter-spacing-desktop: -10px;
+
+$medium-size-desktop: 70px;
+$medium-line-height-dekstop: 85%;
+$medium-letter-spacing-desktop: -11px;
+
+$large-size-desktop: 90px;
+$large-line-height-dekstop: 85%;
+$large-letter-spacing-desktop: -15px;
+
+$xlarge-size-desktop: 100px;
+$xlarge-line-height-dekstop: 85%;
+$xlarge-letter-spacing-desktop: -18px;
+
+// larger breakpoint(1280px)
+$small-letter-spacing-desktop-larger: 0px;
+
+$medium-size-desktop-larger: 90px;
+$medium-line-height-dekstop-larger: 85%;
+$medium-letter-spacing-desktop-larger: -4px;
+
+$large-size-desktop-larger: 110px;
+$large-line-height-dekstop-larger: 85%;
+$large-letter-spacing-desktop-larger: -15px;
+
+$xlarge-size-desktop-larger: 130px;
+$xlarge-line-height-dekstop-larger: 85%;
+$xlarge-letter-spacing-desktop-larger: -18px;
